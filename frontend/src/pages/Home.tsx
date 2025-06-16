@@ -6,11 +6,11 @@ const Home = () => {
     <div className="min-h-screen flex items-center justify-center px-2 sm:px-4">
       <div className="flex flex-col lg:flex-row gap-6 w-full max-w-10xl">
         {/* Terminal */}
-        <div className="w-full mt-5 lg:w-2/4">
+        <div className="w-full lg:w-2/4">
           <Terminal />
         </div>
         {/* Dashboard */}
-        <div className="w-full mb-5 lg:w-2/4">
+        <div className="w-full lg:w-2/4">
           <Dashboard />
         </div>
       </div>
