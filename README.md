@@ -77,7 +77,7 @@ Junior Web Developer passionate about cybersecurity, full-stack development, and
 
 ## 📬 Feedback & Contributions
 
-Suggestions, issues or feedback are welcome — feel free to open an issue or contact me via [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/juanmanuelfloresdev/).
+Suggestions, issues or feedback are welcome — feel free to open an issue or contact me via [LinkedIn](https://www.linkedin.com/in/juanmanuelfloresdev/).
 
 📄 License
 
