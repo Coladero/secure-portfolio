@@ -74,7 +74,7 @@ const Dashboard = () => {
   return (
     <div className="h-full flex flex-col bg-gray-800 border-gray-600 rounded-lg shadow-xl overflow-hidden">
       {/* Barra de título del dashboard */}
-      <div className="flex flex-col items-center bg-gray-900 px-4 py-2  border-gray-700">
+      <div className="flex flex-col items-center bg-gray-900 px-6 border-gray-700">
       <div className='flex'>Dashboard</div>
       </div>
       
