@@ -21,7 +21,7 @@ const Navbar = () => {
         <div className="flex items-center h-16 justify-center relative">
           {/* Logo on the left */}
           <div className="absolute left-0 flex-shrink-0 flex items-center h-full">
-            <img className="h-8 w-8" src="/logo.png" alt="Logo" />
+            <img className="h-full w-full" src="/images/secure-portfolio.png" alt="secure-portfolio-logo" />
           </div>
 
           {/* Desktop menu centered */}
