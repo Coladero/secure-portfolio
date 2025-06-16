@@ -30,28 +30,31 @@ Skilled in React, Node.js, and modern web technologies. Always eager to learn an
   contact: {
     email: "fmjuan89@gmail.com",
     location: "Newquay, UK",
-    website: "yourwebsite.com",
+    website: "secure-portfolio-phi.vercel.app/",
     linkedin: "linkedin.com/in/juanmanuelfloresdev",
     github: "github.com/coladero",
   },
   experience: [
     {
-      role: "Frontend Developer",
-      company: "Tech Company",
-      period: "2022 - Present",
+      role: "Breackfast chef",
+      company: "Fistral beach hotel",
+      period: "Dec 2024 - Present",
       details: [
-        "Developed modern, responsive UIs with React and Tailwind CSS.",
-        "Collaborated with backend teams to integrate REST APIs.",
-        "Focused on accessibility and performance."
+        "Led morning service, managing time-critical tasks under high-pressure conditions.",
+        "Developed strong multitasking and organizational skills transferable to tech projects.",
+        "Demonstrated reliability, time management, and precision in fast-paced environments."
       ]
     },
     {
-      role: "Web Developer Intern",
-      company: "Startup Inc.",
-      period: "2021 - 2022",
+      role: "Full-stack Developer - Apprentice",
+      company: "Auriga",
+      period: "May 2022 – Sep 2022",
       details: [
-        "Built reusable components and improved code quality.",
-        "Participated in agile development and code reviews."
+    "Built a complete backend from scratch using Node.js and NestJS.",
+    "Collaborated with frontend developers to deliver a production-ready application.",
+    "Delivered code under tight deadlines and maintained high standards of code quality.",
+    "Developed teamwork, task estimation, and ticket tracking skills using Agile practices.",
+    "Worked with real-world business logic and solved performance issues in a collaborative setting."
       ]
     }
   ],

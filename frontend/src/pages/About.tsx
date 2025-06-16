@@ -9,13 +9,12 @@ type Experience = {
 
 const About = () => (
   <div className="min-h-screen flex items-center justify-center px-2 sm:px-4">
-    <section className="bg-gray-900 border-2 rounded-[10px] border-gray-700 shadow-terminal p-8 w-full max-w-5xl mt-8 mb-8">
+    <section className="bg-gray-900 border-2 rounded-[10px] border-gray-700 shadow-terminal p-8 w-full max-w-7xl mt-8 mb-8">
       <div className="flex flex-col md:flex-row gap-10">
         {/* Left column: Profile & Contact */}
         <aside className="md:w-1/3 flex flex-col items-center md:items-start">
           <img
             src="/profile.jpg"
-            alt="Profile"
             className="w-32 h-32 text-green-400 rounded-full border-4 border-green-400 mb-4 shadow-terminal object-cover"
           />
           <h1 className="text-2xl font-bold text-green-400 mb-1">{aboutData.name}</h1>
