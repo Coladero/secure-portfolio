@@ -49,6 +49,8 @@ secure-portfolio/
 ├── .gitignore
 └── README.md
 
+```
+
 ⚙️ Features
 
 Simulated terminal prompt UI
