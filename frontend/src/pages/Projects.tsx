@@ -108,7 +108,7 @@ const Projects = () => {
   const allProjects = [...localProjects, ...extraProjects];
 
   return (
-    <section className="min-h-screen bg-gray-900 text-terminal-green px-4 py-12 font-mono">
+    <section className="min-h-screen text-terminal-green px-4 py-12 font-mono">
       <h2 className="text-3xl font-bold mb-6 text-center border-b pb-2 border-terminal-green">
         ➜ Projects
       </h2>

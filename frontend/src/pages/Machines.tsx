@@ -31,15 +31,14 @@ const Machines = () => {
         difficulty: 'Medium',
         status: 'In Progress',
       },
-      // Puedes agregar más máquinas aquí
     ]);
   }, []);
 
   return (
-    <main className="min-h-screen p-4 text-terminal-green font-mono">
-      <h1 className="text-2xl mb-4 border-b border-green-500 pb-2">
-        Machines
-      </h1>
+    <main className="min-h-screen text-terminal-green px-4 py-12 font-mono">
+      <h2 className="text-3xl font-bold mb-6 text-center border-b pb-2 border-terminal-green">
+        ➜ Machines
+      </h2>
 
       {/* Grid of machine cards */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto">
