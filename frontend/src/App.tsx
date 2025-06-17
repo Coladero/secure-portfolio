@@ -3,7 +3,7 @@ import Layout from "./components/Layout";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
-import Dashboard from "./components/Dashboard/Dashboard";
+import Machines from "./pages/Machines";
 import "./styles/global.css";
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
-          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/machines" element={<Machines />} />
         </Routes>
       </Layout>
     </Router>
