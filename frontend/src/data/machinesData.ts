@@ -6,6 +6,7 @@ export interface Machine {
   status: 'In Progress' | 'Completed';
   url?: string;
   completedAt?: string;
+  description?: string; //mini description of the machine
 }
 
 export const machines: Machine[] = [
@@ -17,6 +18,7 @@ export const machines: Machine[] = [
     status: 'Completed',
     url: 'https://tryhackme.com/room/lofi',
     completedAt: '2025-06-20',
+    description: 'A beginner-friendly room focusing on basic cybersecurity concepts.',
   },
   {
     id: '2',
