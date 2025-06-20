@@ -11,12 +11,12 @@ export interface Machine {
 export const machines: Machine[] = [
   {
     id: '1',
-    title: 'Simple CTF',
+    title: 'Lo-Fi',
     platform: 'TryHackMe',
     difficulty: 'Easy',
     status: 'Completed',
-    url: 'https://tryhackme.com/room/simplectf',
-    completedAt: '2024-06-01',
+    url: 'https://tryhackme.com/room/lofi',
+    completedAt: '2025-06-20',
   },
   {
     id: '2',
