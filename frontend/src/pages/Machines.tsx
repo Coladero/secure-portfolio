@@ -47,6 +47,11 @@ const Machines = () => {
                 Completed At: <span className="text-white">{machine.completedAt}</span>
               </p>
             )}
+            {machine.description && (
+              <p>
+                Description: <span className="text-white">{machine.description}</span>
+              </p>
+              )}
           </div>
         ))}
       </div>
